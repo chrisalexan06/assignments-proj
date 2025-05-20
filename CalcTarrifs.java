@@ -1,8 +1,4 @@
-//--------------------------------------------------------
-// Assignment 3
-// Question: Part 1 file i/o
-// Written by: Christina Alexandrakis 40326572
-//--------------------------------------------------------
+
 
 package part1;
 
