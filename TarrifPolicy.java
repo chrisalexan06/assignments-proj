@@ -1,8 +1,3 @@
-//--------------------------------------------------------
-// Assignment 3
-// Question: Part 2 linked list (interface)
-// Written by: Christina Alexandrakis 40326572
-//--------------------------------------------------------
 package part2;
 
 //interface to be implemented 
