@@ -1,8 +1,4 @@
-//--------------------------------------------------------
-// Assignment 3
-// Question: Part 2 tariffs 
-// Written by: Christina Alexandrakis 40326572
-//--------------------------------------------------------
+
 
 package part2;
 
